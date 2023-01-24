@@ -1,5 +1,3 @@
-# Sun
-
-# Ekran Görüntüsü 
+# Sunset
 
 ![](sunset.gif)
