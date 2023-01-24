@@ -1,1 +1,3 @@
 # Sun
+
+![](ekran.gif)
