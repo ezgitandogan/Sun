@@ -1,5 +1,5 @@
 # Sun
 
-<h1> Ekran Görüntüsü </h1>
+# Ekran Görüntüsü 
 
-![](Ekran.Gif)
+![](sunset.gif)
